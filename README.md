@@ -1,6 +1,7 @@
 SANAD
 ________________________________________
 📌 Project Idea
+
 Sanad is a digital platform for parents of children with special needs, providing a community to connect, share experiences, access trusted specialists, and receive guidance for conditions such as autism, Down syndrome, intellectual and physical disabilities, and speech delays — all through an easy-to-use and reliable mobile application.
 •	Community Groups: Connect with parents facing similar conditions.
 •	Specialist Access: Find trusted doctors and therapists.
